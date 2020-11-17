@@ -5,7 +5,7 @@ Deze opdracht hoort bij de eerste les over react. In de opdracht zullen zowel za
 die in de les zelf zijn behandeld gebruikt worden. Om het gevoel van ‘de praktijk’ meer naar de opdracht te halen is 
 de opzet zoals deze in een userstory gebruikt kan worden.
 
-**"Als klant wil een kleine applicatie waarmee ik makkelijk klanten de winkel kan tellen, zodat we binnen de corona-regels blijven."**
+### "Als klant wil een kleine applicatie waarmee ik makkelijk klanten de winkel kan tellen, zodat we binnen de corona-regels blijven."
 
 ## Context
 Gezien de huidige situatie met COVID-19 is het belangrijk dat we weten hoeveel mensen er in de winkel zijn. Bij de deur staat een portier om 
@@ -50,4 +50,4 @@ buttonklik. De nieuwe waarde van de teller is de _huidige waarde + 1 of -1_ (afh
 gebeurtenis in de log wordt geschreven.
 6. Gebruik een console.log() om te checken of de waardes op de juiste manier in de log worden gezet
 7. Zorg ervoor dat alle waardes uit de log worden weergegeven op de pagina. _Tip:_ dit heb je voorheen al eens gedaan met de tv opdracht of country-data opdracht!
-8. Maak een reset knop die de log en de teller reset!git rm --cached filename
+8. Maak een reset knop die de log en de teller reset!
