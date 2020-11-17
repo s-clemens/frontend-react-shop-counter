@@ -1,11 +1,13 @@
-import React from 'react';
+
 import './App.css';
+import Counter from "./Counter";
 
 function App() {
+    // const [count, setCount] = useState(0);
   return (
-    <div>
-      Begin hier met het bouwen van de applicatie!
-    </div>
+    <>
+      <Counter initialCount = {0} />
+    </>
   );
 }
 
