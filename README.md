@@ -50,4 +50,4 @@ buttonklik. De nieuwe waarde van de teller is de _huidige waarde + 1 of -1_ (afh
 gebeurtenis in de log wordt geschreven.
 6. Gebruik een console.log() om te checken of de waardes op de juiste manier in de log worden gezet
 7. Zorg ervoor dat alle waardes uit de log worden weergegeven op de pagina. _Tip:_ dit heb je voorheen al eens gedaan met de tv opdracht of country-data opdracht!
-8. Maak een reset knop die de log en de teller reset!
+8. Maak een reset knop die de log en de teller reset!git rm --cached filename
